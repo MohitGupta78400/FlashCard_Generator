@@ -52,15 +52,15 @@ Flashcard Generator is built using the following technologies:
 
 ## Feedback
 
-Feel free to send us feedback on [GitHub](https://github.com/divya247452). Feature requests are always welcome.
+Feel free to send us feedback on [GitHub](https://github.com/MohitGupta78400). Feature requests are always welcome.
 
 ## Project Author
 
-This project is created and maintained by me, Divya Pratap.
+This project is created and maintained by me, Mohit Gupta.
 
 ### Divya Pratap
-[GitHub](https://github.com/divya247452) |
-[LinkedIn](https://linkedin.com/in/divya-pratap-749867292/) |
+[GitHub](https://github.com/MohitGupta78400) |
+[LinkedIn](https://linkedin.com/in/mohit-gupta-5b100099) |
 
 ## Build Process
 
@@ -87,6 +87,6 @@ Distributed under the MIT License. See [LICENSE.txt](./LICENSE.txt) for more inf
 
 ## Contact
 
-For any inquiries or support, please contact me at [Instagram](https://www.instagram.com/divya_pratap11/)
+For any inquiries or support, please contact me at [LinkedIn](https://linkedin.com/in/mohit-gupta-5b100099)
 
 ---
