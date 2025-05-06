@@ -45,7 +45,7 @@ Build Process
 To clone and run this application, you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
 # Clone this repository
-$ git clone https://github.com/divya247452
+$ git clone https://github.com/MohitGupta78400
 
 # Go into the repository
 $ cd flashcard-generator
