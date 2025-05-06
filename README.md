@@ -1,6 +1,6 @@
 <h1 align="center">
   
-<img src=""C:\Users\91784\OneDrive\Desktop\flash card image.jpg"" alt="logo" width="140" height="50" style="vertical-align: middle">
+<img src="public/assets/logo.webp" alt="logo" width="140" height="50" style="vertical-align: middle">
 
 Flashcard Generator
 
