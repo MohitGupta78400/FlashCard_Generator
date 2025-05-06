@@ -3,15 +3,17 @@
 The web application that allows users to create, manage, and share custom flashcards. It provides an intuitive interface and a comprehensive set of features to enhance the learning process.
 
 Table of Contents
+
 #Introduction
-Features
-Tech Stack
-Feedback
-Project Author
-Build Process
-License
-Acknowledgements
-Contact
+#Features
+#Tech Stack
+#Feedback
+#Project Author
+#Build Process
+#License
+#Acknowledgements
+#Contact
+
 Introduction
 Flashcard-generator is a powerful flashcard generator app designed to supercharge your learning process. With it's beginner friendly interface you can create and orgnize your flashcards very easily. Whether you're preparing for exams, learning new languages, or enhancing your knowledge in any subject, Flashcard-generator helps you retain information effectively and boost your learning potential. The app will also be helpful for Organisations to post advertisement about hiring or for the promotion.
 
