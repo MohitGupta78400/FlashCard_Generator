@@ -3,7 +3,7 @@
 The web application that allows users to create, manage, and share custom flashcards. It provides an intuitive interface and a comprehensive set of features to enhance the learning process.
 
 Table of Contents
-Introduction
+#Introduction
 Features
 Tech Stack
 Feedback
