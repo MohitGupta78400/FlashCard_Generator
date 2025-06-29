@@ -54,7 +54,7 @@ Feel free to send us feedback on [GitHub](https://github.com/MohitGupta78400). F
 
 This project is created and maintained by me, Mohit Gupta.
 
-### Divya Pratap
+### Mohit Gupta
 
 [GitHub](https://github.com/MohitGupta78400) |
 [LinkedIn](https://linkedin.com/in/mohit-gupta-5b100099/) |
